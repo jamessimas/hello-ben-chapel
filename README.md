@@ -1,2 +1,2 @@
 # About
-![Hello, Ben!](hello-ben.png]
+![It compiled! Weee!](hello-ben.png)
